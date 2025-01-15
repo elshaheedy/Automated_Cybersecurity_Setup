@@ -2,8 +2,6 @@
 ```markdown
 # Automated Cybersecurity Setup for Kali Linux
 
-![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg)
-
 This repository contains a Bash script to automate the setup of essential cybersecurity tools and configurations on **Kali Linux**. The script is designed for IT professionals, system administrators, and cybersecurity enthusiasts who want to quickly secure and configure their Kali Linux environment.
 
 ---
